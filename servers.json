@@ -1,0 +1,43 @@
+[
+  {
+    "id": "nl-1",
+    "name": "Netherlands 🇳🇱",
+    "country": "NL",
+    "city": "Amsterdam",
+
+    "address": "10.8.1.7/32",
+    "dns": "1.1.1.1, 1.0.0.1",
+
+    "privateKey": "wX8RTCs9riI6xmqEt+mR4qA1MUAo1JQ7KG2cBrlpgXI=",
+    "publicKey": "BTzLQ0h05D3wWT+mtrZMiioQm3rSfbMcF1reeabwCy8=",
+    "presharedKey": "pmdy6nj7QjcQkSRYfEoXd0vXc8CsjneEcXJ8RgtrJOg=",
+
+    "endpoint": "89.124.120.24:39504",
+
+    "online": true,
+    "users": 15,
+    "maxUsers": 100,
+    "ping": 32
+  },
+
+  {
+    "id": "kg-1",
+    "name": "Kyrgyzstan 🇰🇬",
+    "country": "KG",
+    "city": "Bishkek",
+
+    "address": "10.8.1.9/32",
+    "dns": "1.1.1.1, 1.0.0.1",
+
+    "privateKey": "v5clJN9ak1SPVTLYMVKZiLXS6T9WSFIW0TLs0GEFV+s=",
+    "publicKey": "QBZHGyjcT7/2ABP1EAfuJq9nZjPGUCR8mqe8IUdj9Sw=",
+    "presharedKey": "uXfIYrJqMI2PzEthGxfmcMR9nI1JaBrCAH1q6oMDPAM=",
+
+    "endpoint": "188.240.213.90:46286",
+
+    "online": true,
+    "users": 7,
+    "maxUsers": 100,
+    "ping": 14
+  }
+]
