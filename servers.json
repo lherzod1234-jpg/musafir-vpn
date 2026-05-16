@@ -17,7 +17,10 @@
     "online": true,
     "users": 15,
     "maxUsers": 100,
-    "ping": 32
+    "ping": 32,
+
+    "premiumOnly": false,
+    "priority": 1
   },
 
   {
@@ -38,6 +41,9 @@
     "online": true,
     "users": 7,
     "maxUsers": 100,
-    "ping": 14
+    "ping": 14,
+
+    "premiumOnly": false,
+    "priority": 1
   }
 ]
