@@ -15,8 +15,8 @@
     "endpoint": "89.124.120.24:39504",
 
     "online": true,
-    "users": 15,
-    "maxUsers": 100,
+    "users": 150,
+    "maxUsers": 200,
     "ping": 32,
 
     "premiumOnly": false,
@@ -39,8 +39,8 @@
     "endpoint": "188.240.213.90:46286",
 
     "online": true,
-    "users": 7,
-    "maxUsers": 100,
+    "users": 150,
+    "maxUsers": 200,
     "ping": 14,
 
     "premiumOnly": false,
