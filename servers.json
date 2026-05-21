@@ -63,7 +63,7 @@
     "endpoint": "70.34.203.129:34690",
 
     "online": true,
-    "users": 0,
+    "users": 150,
     "maxUsers": 200,
     "ping": 41,
 
@@ -87,7 +87,7 @@
     "endpoint": "REPLACE_UZ_IP:51820",
 
     "online": true,
-    "users": 0,
+    "users": 150,
     "maxUsers": 200,
     "ping": 12,
 
