@@ -89,7 +89,7 @@
     "online": true,
     "users": 150,
     "maxUsers": 200,
-    "ping": 12,
+    "ping": 41,
 
     "premiumOnly": false,
     "priority": 1
