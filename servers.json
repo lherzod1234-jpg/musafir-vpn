@@ -69,5 +69,29 @@
 
     "premiumOnly": false,
     "priority": 1
+  },
+  
+  {
+    "id": "uz-1",
+    "name": "Uzbekistan 🇺🇿",
+    "country": "UZ",
+    "city": "Tashkent",
+
+    "address": "10.8.1.11/32",
+    "dns": "1.1.1.1, 1.0.0.1",
+
+    "privateKey": "pRohMc7MMh44aMTRVMuo2KOdnrXTIPpWGm/D/Cswdxo=",
+    "publicKey": "gSj1dJAPwjeVfrh4wXwd7tnZcpvhM0rPIfYm8RHKLlA=",
+    "presharedKey": "4/M/+5cBKjdWS3Wj+UGBDalM72zFs+YXfMkWUX1g5Ts=",
+
+    "endpoint": "81.85.49.202:43207",
+
+    "online": true,
+    "users": 150,
+    "maxUsers": 200,
+    "ping": 12,
+
+    "premiumOnly": false,
+    "priority": 1
   }
 ]
