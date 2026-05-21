@@ -24,30 +24,6 @@
   },
 
   {
-    "id": "uz-1",
-    "name": "Uzbekistan 🇺🇿",
-    "country": "UZ",
-    "city": "Tashkent",
-
-    "address": "10.8.1.11/32",
-    "dns": "1.1.1.1, 1.0.0.1",
-
-    "privateKey": "0CZpvlwcMT3BxwWgsOP+PVhdYRjZzSmoTkSlvpZmpR0=",
-    "publicKey": "lIYbP+ZvpZtwr/U45qhmdv3IHgGBwCJODxmGX1MvWmU=",
-    "presharedKey": "gsOP+PVhdYRjZzSmoTkSlvpZmpR0=",
-
-    "endpoint": "81.85.49.180:30632",
-
-    "online": true,
-    "users": 150,
-    "maxUsers": 200,
-    "ping": 18,
-
-    "premiumOnly": false,
-    "priority": 1
-  },
-
-  {
     "id": "kg-1",
     "name": "Kyrgyzstan 🇰🇬",
     "country": "KG",
