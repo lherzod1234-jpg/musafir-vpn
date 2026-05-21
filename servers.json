@@ -53,12 +53,12 @@
     "country": "SE",
     "city": "Stockholm",
 
-    "address": "10.8.1.5/32",
+    "address": "10.8.1.2/32",
     "dns": "1.1.1.1, 1.0.0.1",
 
-    "privateKey": "rGHmpgqNTmcFwd50JvjKlSFH62IZE2uFhkb9DGToaIs=",
-    "publicKey": "VmzJ3dL9Qj3kcX/YTojIAKuAJrHYvfyvFLNAj3Txq3w=",
-    "presharedKey": "gv0QzRVBqYnZjKhb8/nw1ZrBx3d/O1Wgq2SdtYw+LHU=",
+    "privateKey": "F3agSqr7dk7FCNgmQZaIUPFydeFhMsy6YG4MPS34fS0=",
+    "publicKey": "VmzJ3dL9Qj3kcX/YTojIAKuAJrHYvfvyFLNAi3Txg3w=",
+    "presharedKey": "gv0QzRVBqYnZjKhb8/nw1ZrBx3d/O1Wg2SdtYw+LHU=",
 
     "endpoint": "70.34.203.129:34690",
 
@@ -66,6 +66,30 @@
     "users": 0,
     "maxUsers": 200,
     "ping": 41,
+
+    "premiumOnly": false,
+    "priority": 1
+  },
+
+  {
+    "id": "uz-1",
+    "name": "Uzbekistan 🇺🇿",
+    "country": "UZ",
+    "city": "Tashkent",
+
+    "address": "10.8.1.11/32",
+    "dns": "1.1.1.1, 1.0.0.1",
+
+    "privateKey": "REPLACE_UZ_PRIVATE_KEY",
+    "publicKey": "REPLACE_UZ_PUBLIC_KEY",
+    "presharedKey": "REPLACE_UZ_PRESHARED_KEY",
+
+    "endpoint": "REPLACE_UZ_IP:51820",
+
+    "online": true,
+    "users": 0,
+    "maxUsers": 200,
+    "ping": 12,
 
     "premiumOnly": false,
     "priority": 1
